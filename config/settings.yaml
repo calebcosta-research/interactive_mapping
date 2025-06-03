@@ -1,0 +1,5 @@
+# Default configuration for the avalanche risk monitoring system
+starlink:
+  enabled: true
+  ssid: "Starlink-Field"
+  password: "changeme"
